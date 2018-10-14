@@ -1,0 +1,3 @@
+# wallpaper
+
+feh --bg-scale ~/.config/feh/wp.jpg &
